@@ -1,5 +1,22 @@
-# 💫 About Me:
-<br>🔭 **I’m currently working on**  <br>Adjusting my studies to transition into a career in Data Science, focusing on Business Analytics and Business Intelligence.  <br><br>🌱 **I’m currently learning**  <br>Machine Learning, data analysis techniques, predictive modeling, and tools for business intelligence like Power BI and Tableau.  <br><br>👯 **I’m looking to collaborate on**  <br>Projects related to data-driven decision-making and business process optimization.  <br><br>🤝 **I’m looking for help with**  <br>Expanding my network and practical knowledge in the field of data science applied to business challenges.  <br><br>💬 **Ask me about**  <br>My journey from Engineering to Data Science and how I combine technical skills with a business mindset.  <br><br>⚡ **Fun fact**  <br>Besides my passion for data, I enjoy playing American football and going on adventures to explore Brazil’s mountain trails and waterfalls!  
+# 💡 Sobre Mim  
+
+🎓 **Atualmente estudando**  
+Sou estudante de **Engenharia da Computação**, e tenho grande interesse em **Análise e Ciência de Dados**, focado em algoritimo de **machine learning** e **Data Analytics**.  
+📚 **Atualmente aprendendo**  
+Aprofundando conhecimentos em **Machine Learning**, técnicas de **análise de dados**, **modelagem preditiva** e ferramentas de **BI** como **Power BI** e **Tableau**.  
+
+🤝 **Busco colaborar em**  
+Projetos que envolvem **tomada de decisão baseada em dados** e **otimização de processos de negócios**.  
+
+🚀 **Estou aberto a conexões para**  
+Expandir minha rede e conhecimento prático na aplicação de **Ciência de Dados em desafios empresariais**.  
+
+💬 **Pergunte-me sobre**  
+Minha trajetória em **Engenharia da Computação** e como venho desenvolvendo habilidades em **Ciência de Dados** para aplicá-las a problemas reais de negócios.  
+
+⚡ **Curiosidade**  
+Além da minha paixão por dados, gosto de jogar futebol americano e explorar trilhas e cachoeiras pelo Brasil!
+
 
 
 ## 🌐 Socials:
