@@ -1,7 +1,8 @@
 # 💡 Sobre Mim  
 
 🎓 **Atualmente estudando**  
-Sou estudante de **Engenharia da Computação**, e tenho grande interesse em **Análise e Ciência de Dados**, focado em algoritimo de **machine learning** e **Data Analytics**.  
+Sou estudante de **Engenharia da Computação**, e tenho grande interesse em **Análise e Ciência de Dados**, focado em algoritimo de **machine learning** e **Data Analytics**. 
+
 📚 **Atualmente aprendendo**  
 Aprofundando conhecimentos em **Machine Learning**, técnicas de **análise de dados**, **modelagem preditiva** e ferramentas de **BI** como **Power BI** e **Tableau**.  
 
